@@ -1,0 +1,174 @@
+#wrap {}
+#wrap header {}
+#wrap header .gnb {}
+#wrap header .gnb .left_gnb {}
+#wrap header .gnb .left_gnb h1 {}
+#wrap header .gnb .left_gnb h1 a {}
+#wrap header .gnb .left_gnb h1 a img {}
+#wrap header .gnb .left_gnb .gnb_category {}
+#wrap header .gnb .left_gnb .gnb_category ul {}
+#wrap header .gnb .left_gnb .gnb_category ul li {}
+#wrap header .gnb .left_gnb .gnb_category ul li:nth-child(1) {} 
+#wrap header .gnb .left_gnb .gnb_category ul li a {}
+#wrap header .gnb .right_gnb {}
+#wrap header .gnb .right_gnb .gnb_category {}
+#wrap header .gnb .right_gnb .gnb_category ul {}
+#wrap header .gnb .right_gnb .gnb_category ul li {}
+#wrap header .gnb .right_gnb .gnb_category ul li a {}
+#wrap header .hero_bnr {}
+#wrap header .hero_bnr .maeketb_hero {}
+#wrap header .hero_bnr .maeketb_hero .swiper-wrapper {}
+#wrap header .hero_bnr .maeketb_hero .swiper-wrapper .swiper-slide {} /* 히어로배너 슬라이드 공통 */
+#wrap header .hero_bnr .maeketb_hero .swiper-wrapper .swiper-slide a {}
+#wrap header .hero_bnr .maeketb_hero .swiper-wrapper .swiper-slide a img {}
+#wrap header .hero_bnr .maeketb_hero .swiper-wrapper .swiper-slide a img p {}
+#wrap header .hero_bnr .maeketb_hero .swiper-wrapper .hero_bnr1 {}
+#wrap header .hero_bnr .maeketb_hero .swiper-wrapper .hero_bnr2 {}
+#wrap header .hero_bnr .maeketb_hero .swiper-wrapper .hero_bnr3 {}
+
+#wrap main {}
+#wrap main .main_category {}
+#wrap main .main_category .bed {} /* 침대시작 */
+#wrap main .main_category .bed h2 {}
+#wrap main .main_category .bed p {}
+#wrap main .main_category .bed p span {}
+#wrap main .main_category .bed p em {} /* 침대끝 */
+#wrap main .main_category .table {} /* 테이블시작 */
+#wrap main .main_category .table h2 {}
+#wrap main .main_category .table p {}
+#wrap main .main_category .table p span {}
+#wrap main .main_category .table p em {} /* 테이블끝 */
+#wrap main .main_category .sofa_chair {} /* 소파,의자시작 */
+#wrap main .main_category .sofa_chair h2 {}
+#wrap main .main_category .sofa_chair p {}
+#wrap main .main_category .sofa_chair p span {}
+#wrap main .main_category .sofa_chair {}/* 소파,의자끝 */
+#wrap main .main_category .storage {} /* 수납장시작 */
+#wrap main .main_category .storage h2 {}
+#wrap main .main_category .storage p {}
+#wrap main .main_category .storage p span {}
+#wrap main .main_category .storage p em {} /* 수납장끝 */
+#wrap main .main_category .object {} /* 오브제시작 */
+#wrap main .main_category .object h2 {}
+#wrap main .main_category .object p {}
+#wrap main .main_category .object p span {}
+#wrap main .main_category .object p em {} /* 오브제끝 */
+
+#wrap main .mdpick_product {}
+#wrap main .mdpick_product h1 {}
+#wrap main .mdpick_product p {}
+#wrap main .mdpick_product .mdpick {}
+#wrap main .mdpick_product .mdpick .swiper-wrapper {}
+#wrap main .mdpick_product .mdpick .swiper-wrapper .swiper-slide {}
+#wrap main .mdpick_product .mdpick .swiper-wrapper .swiper-slide a {}
+#wrap main .mdpick_product .mdpick .swiper-wrapper .swiper-slide a p {}
+#wrap main .mdpick_product .mdpick .swiper-wrapper .swiper-slide a .price {}
+#wrap main .mdpick_product .mdpick .swiper-wrapper .slide1 {}
+#wrap main .mdpick_product .mdpick .swiper-wrapper .slide2 {}
+#wrap main .mdpick_product .mdpick .swiper-wrapper .slide3 {}
+#wrap main .mdpick_product .mdpick .swiper-wrapper .slide4 {}
+#wrap main .mdpick_product .mdpick .swiper-wrapper .slide5 {}
+
+#wrap main .best_seller {}
+#wrap main .best_seller h1 {}
+#wrap main .best_seller p {}
+#wrap main .best_seller .best_left {}
+#wrap main .best_seller .best_left .swiper-wrapper {}
+#wrap main .best_seller .best_left .swiper-wrapper .swiper-slide {}
+#wrap main .best_seller .best_left .swiper-wrapper .swiper-slide h1 {}
+#wrap main .best_seller .best_left .swiper-wrapper .swiper-slide p {}
+#wrap main .best_seller .best_left .swiper-wrapper .slide1 {}
+#wrap main .best_seller .best_left .swiper-wrapper .slide2 {}
+#wrap main .best_seller .best_left .swiper-wrapper .slide3 {}
+
+#wrap main .serles {}
+#wrap main .serles .serles_left {}
+#wrap main .serles .serles_left .serles_left {}
+#wrap main .serles .serles_left .serles_left h1 {}
+#wrap main .serles .serles_left .serles_left ul {}
+#wrap main .serles .serles_left .serles_left ul li {}
+#wrap main .serles .serles_left .serles_left ul li:nth-child(1) {}
+#wrap main .serles .serles_left .serles_left ul li a {}
+#wrap main .serles .serles_right {}
+#wrap main .serles .serles_right .swiper-wrapper {}
+#wrap main .serles .serles_right .swiper-wrapper .swiper-slide {}
+#wrap main .serles .serles_right .swiper-wrapper .swiper-slide a {}
+#wrap main .serles .serles_right .swiper-wrapper .swiper-slide a img {}
+#wrap main .serles .serles_right .swiper-wrapper .swiper-slide a h2 {}
+#wrap main .serles .serles_right .swiper-wrapper .swiper-slide a p {}
+#wrap main .serles .serles_right .swiper-wrapper .swiper-slide a p span {}
+#wrap main .serles .serles_right .swiper-wrapper .slide1 {}
+#wrap main .serles .serles_right .swiper-wrapper .slide2 {}
+#wrap main .serles .serles_right .swiper-wrapper .slide3 {}
+#wrap main .serles .serles_right .swiper-wrapper .slide4 {}
+#wrap main .serles .serles_right .swiper-wrapper .slide5 {}
+#wrap main .serles .serles_right .swiper-wrapper .slide6 {}
+
+#wrap main .sele {}
+#wrap main .sele .sele_left {}
+#wrap main .sele .sele_left h1 {}
+#wrap main .sele .sele_left ul {}
+#wrap main .sele .sele_left ul li {}
+#wrap main .sele .sele_left ul li a:nth-child(1) {}
+#wrap main .sele .sele_left ul li a {}
+#wrap main .sele .sele_right {}
+#wrap main .sele .sele_right .swiper-wrapper {}
+#wrap main .sele .sele_right .swiper-wrapper .swiper-slide {}
+#wrap main .sele .sele_right .swiper-wrapper .swiper-slide a {}
+#wrap main .sele .sele_right .swiper-wrapper .swiper-slide a img {}
+#wrap main .sele .sele_right .swiper-wrapper .swiper-slide a h2 {}
+#wrap main .sele .sele_right .swiper-wrapper .swiper-slide a p {}
+#wrap main .sele .sele_right .swiper-wrapper .slide1 {}
+#wrap main .sele .sele_right .swiper-wrapper .slide2 {}
+#wrap main .sele .sele_right .swiper-wrapper .slide3 {}
+#wrap main .sele .sele_right .swiper-wrapper .slide4 {}
+#wrap main .sele .sele_right .swiper-wrapper .slide5 {}
+#wrap main .sele .sele_right .swiper-wrapper .slide6 {}
+
+#wrap main .magazine {}
+#wrap main .magazine .left_magazine {}
+#wrap main .magazine .left_magazine img {}
+#wrap main .magazine .left_magazine img h1 {}
+#wrap main .magazine .right_magazine {}
+#wrap main .magazine .right_magazine .swiper-wrapper {}
+#wrap main .magazine .right_magazine .swiper-wrapper .swiper-slide {}
+#wrap main .magazine .right_magazine .swiper-wrapper .swiper-slide h1 {}
+#wrap main .magazine .right_magazine .swiper-wrapper .swiper-slide p {}
+#wrap main .magazine .right_magazine .swiper-wrapper .swiper-slide .go_btn {}
+#wrap main .magazine .right_magazine .swiper-wrapper .slide1 {}
+#wrap main .magazine .right_magazine .swiper-wrapper .slide2 {}
+#wrap main .magazine .right_magazine .swiper-wrapper .slide3 {}
+
+#wrap main .review {}
+#wrap main .review h1 {}
+#wrap main .review .review {}
+#wrap main .review .review .swiper-wrapper {}
+#wrap main .review .review .swiper-wrapper .swiper-slide {}
+#wrap main .review .review .swiper-wrapper .slidswiper-slidee1 a {}
+#wrap main .review .review .swiper-wrapper .swiper-slide a img {}
+#wrap main .review .review .swiper-wrapper .swiper-slide a ul {}
+#wrap main .review .review .swiper-wrapper .swiper-slide a ul li {}
+#wrap main .review .review .swiper-wrapper .slide1 {}
+#wrap main .review .review .swiper-wrapper .slide2 {}
+#wrap main .review .review .swiper-wrapper .slide3 {}
+#wrap main .review .review .swiper-wrapper .slide4 {}
+#wrap main .review .review .swiper-wrapper .slide5 {}
+
+#wrap main .mini_brn {}
+#wrap main .mini_brn .offline_Shop {}
+#wrap main .mini_brn .offline_Shop dl
+#wrap main .mini_brn .offline_Shop dl dt
+#wrap main .mini_brn .offline_Shop dl dd
+#wrap main .mini_brn .business {}
+#wrap main .mini_brn .business dl
+#wrap main .mini_brn .business dl dt
+#wrap main .mini_brn .business dl dd
+#wrap main .mini_brn .pl3
+#wrap main .mini_brn .dl3 dl 
+#wrap main .mini_brn .dl3 dl dd
+#wrap main .mini_brn .dl3 dl
+#wrap main .mini_brn .dl3 dl dt
+#wrap main .mini_brn .dl3 dl dd
+
+#wrap footer {} /* 준비중 */
+#wrap footer .offline_Shop {}
